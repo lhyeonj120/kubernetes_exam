@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: app
-          image: dolsam77/echo
+          image: dolsam77/echo:v2
